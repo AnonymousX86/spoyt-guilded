@@ -1,0 +1,4 @@
+guilded.py
+rich
+requiests
+spotipy
