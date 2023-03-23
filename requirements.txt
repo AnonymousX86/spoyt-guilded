@@ -1,4 +1,4 @@
 guilded.py
 rich
-requiests
+requests
 spotipy
