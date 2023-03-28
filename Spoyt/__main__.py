@@ -24,7 +24,7 @@ def main():
         format='%(message)s',
         datefmt='[%x]',
         handlers=[RichHandler(rich_tracebacks=True)]
-        )
+    )
     client = Client()
 
     @client.event
